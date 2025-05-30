@@ -1,4 +1,4 @@
-👋 Hi, I’m Catherine! <br/>
+Hi, I’m Catherine! <br/>
 I'm a junior at Columbia Engineering studying Applied Physics. My email is cgs2171@columbia.edu.<br/>
 Fun fact: I love broccoli. 
 
